@@ -20,12 +20,12 @@
 
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/rafaellaranjeiras/vr-sales   
    ```
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd sales
+   cd vr-sales
    ```
 
 3. Compile o projeto com Maven:
